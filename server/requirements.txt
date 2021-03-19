@@ -2,7 +2,7 @@ certifi==2019.6.16
 chardet==3.0.4
 colorama==0.4.1
 django-request-logging==0.7.2
-Django==2.2.2
+Django==2.2.18
 django-cors-headers==3.0.2
 django-filter==2.1.0
 django-taggit==1.1.0
